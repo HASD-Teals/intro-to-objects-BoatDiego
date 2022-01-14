@@ -16,5 +16,26 @@ public class SymClient {
         System.out.println(myFirstDog.getName());
         System.out.println("Age: " + mySecondDog.getAge());
         System.out.println("Age in human years: " + mySecondDog.getHumanAge());
+    
+        Person firstPerson = new Person(19, "Tom", 99999999, 9999, true, true, null, 120.54);
+        
+        System.out.println(firstPerson.GetAllowenceMon());
+    
     }
+    public static void theTruth(){
+
+
+
+
+    }
+
+
+
+
+
+
+
+
+
+
 }

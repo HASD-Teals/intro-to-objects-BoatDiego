@@ -30,7 +30,6 @@ public class Dog {
         this.isHypoalergenic = isHypoalergenic;
     }
     //#endregion
-
     //#region Accessors/Getters
     public String getName() {
         return name;
